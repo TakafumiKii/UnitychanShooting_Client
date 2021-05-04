@@ -1,1 +1,2 @@
-# UnitychanShooting_Client
+# UnitychanShooting_UnityClient
+ユニティちゃんシューティング　Unityクライアント
