@@ -58,3 +58,6 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+unity-chan-shooting/Library
+unity-chan-shooting/Temp
+unity-chan-shooting/Logs
