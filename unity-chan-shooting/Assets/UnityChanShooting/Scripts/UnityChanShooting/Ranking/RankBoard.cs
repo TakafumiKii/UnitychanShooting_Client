@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using FakeServer.Network.Information;
+using FakeServer.Netcode.Scheme;
 namespace UnityChanShooting
 {
     public class RankBoard : MonoBehaviour

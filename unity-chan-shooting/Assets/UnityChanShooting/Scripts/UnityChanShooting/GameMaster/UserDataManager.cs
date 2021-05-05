@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using FakeServer.Unity;
-using FakeServer.Network.Information;
+using FakeServer.Netcode.Scheme;
 namespace UnityChanShooting
 {
     public class UserDataManager : MonoBehaviour

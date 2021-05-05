@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-using FakeServer.Network.Information;
+using FakeServer.Netcode.Scheme;
 using FakeServer.Unity;
 
 namespace UnityChanShooting
